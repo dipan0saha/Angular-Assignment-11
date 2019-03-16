@@ -1,0 +1,16 @@
+.navbar {
+  justify-content: space-between;
+}
+
+span {
+  text-decoration: none;
+  color: white;
+  padding-right: 1rem;
+}
+
+span:hover,
+span:active {
+  color: lightgray;
+  cursor: pointer;
+}
+
